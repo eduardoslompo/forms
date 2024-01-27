@@ -1,0 +1,11 @@
+.has-error {
+    color: red;
+}
+
+.has-error .form-control {
+    border: 1px solid #e40c0c;
+}
+
+button {
+    margin-right: 5px;
+}
